@@ -1,5 +1,3 @@
-package pattern2;
-
 import java.util.ArrayDeque;
 import java.util.Deque;
 
